@@ -7,7 +7,7 @@
 
 Data Science &nbsp;/&nbsp; Machine Learning &nbsp;/&nbsp; LLM Applications
 
-[Projects](https://github.com/YOUR_USERNAME?tab=repositories) &nbsp;·&nbsp; [Tech Stack](#tech-stack) &nbsp;·&nbsp; [Contact](#contact)
+[Projects](https://github.com/farajarshad01?tab=repositories) &nbsp;·&nbsp; [Tech Stack](#tech-stack) &nbsp;·&nbsp; [Contact](#contact)
 
 <img src="https://img.shields.io/badge/Open_to-Data_Science_%26_ML_Roles-2ea043?style=flat-square" alt="Open to roles" />
 
@@ -73,10 +73,9 @@ I build machine learning systems and AI-powered applications, from the data pipe
 
 ---
 
+
+Open to Software Engineer, Data Science and Machine Learning roles.
 ## Contact
 
 <a href="mailto:faraj.arshad01@gmail.com"><img src="https://img.shields.io/badge/Email-faraj.arshad01%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-Open to Software Engineer, Data Science and Machine Learning roles.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%" />
