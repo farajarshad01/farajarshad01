@@ -9,7 +9,6 @@ Data Science &nbsp;/&nbsp; Machine Learning &nbsp;/&nbsp; LLM Applications
 
 [Projects](https://github.com/farajarshad01?tab=repositories) &nbsp;·&nbsp; [Tech Stack](#tech-stack) &nbsp;·&nbsp; [Contact](#contact)
 
-<img src="https://img.shields.io/badge/Open_to-Data_Science_%26_ML_Roles-2ea043?style=flat-square" alt="Open to roles" />
 
 </div>
 
